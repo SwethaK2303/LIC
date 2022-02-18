@@ -1,5 +1,18 @@
-hi this is swetha kumaravel
 
-i learned git init
-git usage '
-git access
+Peace begins with a smile.
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First JavaScript</h1>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+<p id="demo"></p>
+
+</body>
+</html> 
+
+>>>>>>> f0b8c791600b305251f1cd1147c8c50e2389ef79
